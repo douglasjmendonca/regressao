@@ -1,5 +1,7 @@
 Projeto de Análise de Dados: Decisão entre Aplicativo Móvel e Website
+
 Visão Geral
+
 Esse projeto de análise de dados visa auxiliar uma empresa de comércio eletrônico sediada em Nova York, especializada na venda de roupas online e serviços de consultoria em estilo e vestuário na loja física. A empresa está atualmente confrontada com a decisão crucial de direcionar seus esforços para o desenvolvimento de aplicativos móveis ou aprimoramento de seu site. Para embasar essa decisão estratégica, iremos explorar e analisar os dados disponíveis em nosso banco de dados fictício, gerado por uma stored procedure, que contém informações essenciais sobre os clientes, bem como métricas relevantes para nossa análise.
 
 Objetivos do Projeto
